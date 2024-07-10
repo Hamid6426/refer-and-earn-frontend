@@ -1,0 +1,18 @@
+.img{
+  width: 100%;
+  height: auto;
+}
+
+.inline{
+  display: inline;
+}
+
+.body{
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
+
+.nav-items{
+  margin-left: auto;
+}
